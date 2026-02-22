@@ -7,6 +7,8 @@
 
 </div>
 
+OPENLANE - https://github.com/vsdip/vsd-openlane 
+
 ## Table of Contents
    - [Phase 1:OpenLANE Flow Familiarity (RTL → Synthesis literacy)](#phase-1-OpenLANE-Flow-Familiarity (RTL → Synthesis literacy))                                                      
    - [Phase 2:Floorplan Fundamentals (macro awareness for Caravel blocks)](#Phase-2-Floorplan-Fundamentals (macro awareness for Caravel blocks))
