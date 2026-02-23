@@ -61,8 +61,15 @@ Link used to run codespace for OpenLANE flow - https://github.com/vsdip/vsd-open
   
 <img width="1667" height="888" alt="image" src="https://github.com/user-attachments/assets/8b3d0fd5-f95a-4bb3-805e-f299d234f8a5" /></br>  
 <img width="1707" height="881" alt="image" src="https://github.com/user-attachments/assets/aaa28e96-5eb7-4e5a-9941-0bf66c24651b" /></br>  
-<img width="1670" height="876" alt="image" src="https://github.com/user-attachments/assets/d20dd1a8-af05-4aa7-a50a-2c8c65fa464a" /></br>  
-<img width="1747" height="895" alt="image" src="https://github.com/user-attachments/assets/2c765e5f-87c0-4581-9f6d-fa5decd930fb" /></br>  
+<img width="1670" height="876" alt="image" src="https://github.com/user-attachments/assets/d20dd1a8-af05-4aa7-a50a-2c8c65fa464a" /></br>   
+<img width="1753" height="781" alt="image" src="https://github.com/user-attachments/assets/9d40512a-d206-4ef7-a109-5a257ba571e0" /></br>  
+
+**Characterization output (area, cell count, worst slack):-**  
+- Area </br>  
+<img width="1753" height="781" alt="image" src="https://github.com/user-attachments/assets/1182ff63-aaa9-418f-8a3d-6e82d498024a" />
+
+
+
 
 
 
