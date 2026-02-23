@@ -66,7 +66,20 @@ Link used to run codespace for OpenLANE flow - https://github.com/vsdip/vsd-open
 
 **Characterization output (area, cell count, worst slack):-**  
 - Area </br>  
-<img width="1753" height="781" alt="image" src="https://github.com/user-attachments/assets/1182ff63-aaa9-418f-8a3d-6e82d498024a" />
+<img width="1753" height="781" alt="image" src="https://github.com/user-attachments/assets/1182ff63-aaa9-418f-8a3d-6e82d498024a" /></br>
+
+- No. of cells </br>  
+<img width="1670" height="876" alt="image" src="https://github.com/user-attachments/assets/033003dd-bc6d-4153-8c4e-125e10d73817" /> </br>
+
+> flop ratio (No. of FF) = No. of D-FF / Total no. of cells </br>
+
+No.of FF = 0.08715 in percentage 0.08715 * 100 = 8.715 </br>  
+
+-----
+
+
+
+
 
 
 
