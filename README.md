@@ -1,4 +1,6 @@
 # 🖥️ Digital VLSI SoC Design and Planning Course Work (Openlane Sky130 workshop)
+--- 
+&copy; saikrupas 
 
 <div align="center">
 
@@ -10,15 +12,28 @@
 OPENLANE - https://github.com/vsdip/vsd-openlane 
 
 ## Table of Contents
+---
    - [Phase 1:OpenLANE Flow Familiarity (RTL → Synthesis literacy)](#phase-1-OpenLANE-Flow-Familiarity (RTL → Synthesis literacy))                                                      
    - [Phase 2:Floorplan Fundamentals (macro awareness for Caravel blocks)](#Phase-2-Floorplan-Fundamentals (macro awareness for Caravel blocks))
+
    
   
-## Phase-1-OpenLANE Flow Familiarity (RTL → Synthesis literacy)
+ ## Phase-1-OpenLANE Flow Familiarity (RTL → Synthesis literacy)
 <details>
   <summary>
-Soc design and OpenLANE
-
+     Phase 1: Synthesis + characterization evidence 
 </summary>
+   
+### <u>Soc design and OpenLANE</u></br>
+
+### Get familiar to open-source EDA tools 
+
+#### Screenshot of OpenLANE run directory showing the structure
+
+![OpenLANE run directory](images/1.jpg)
+
+  
+
+
 
 ## Phase-2-Floorplan Fundamentals (macro awareness for Caravel blocks)
