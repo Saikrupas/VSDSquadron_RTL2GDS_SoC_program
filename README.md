@@ -10,7 +10,7 @@
 </div>
 
   
- -[Link used for codespace for OpenLANE flow - VSD](https://github.com/vsdip/vsd-openlane)
+ - [Link used for codespace for OpenLANE flow - VSD](https://github.com/vsdip/vsd-openlane)
 
 
 ## Table of Contents
