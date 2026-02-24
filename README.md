@@ -41,10 +41,11 @@ Link used to run codespace for OpenLANE flow - https://github.com/vsdip/vsd-open
  - once noVNC window is open in codespace,</br>
    > right click ----> go to terminal ----> cd OpenLANE (change directory to OpenLANE) </br>
  - Then type  "make mount" to invoke OpenLANE flow. </br>
- - type <mark> ./flow.tcl -interactive </mark> (to open OpenLANE flow in interactive mode) </br>
+ - type <mark> ./flow.tcl -interactive </mark> (to open OpenLANE flow in interactive mode, the flow is step-by-step ) </br>
  
    ![OpenLANE run directory](https://github.com/Saikrupas/VSDSquadron_RTL2GDS_SoC_program/blob/main/Lab_results_OpenLANE_workshop/Lab-1_results%20(1).png?raw=true)</br>
-   
+
+  - type <mark> package require openlane 0.9 </mark> to get the required packages. </br>
   - type <mark> prep -design picorv32a </mark> </br>  
   - <mark> run_synthesis </mark>, to sythesize the RTL cose of the desired design for us now its picorv32a)</br>  
    ![OpenLANE synthesis](https://github.com/Saikrupas/VSDSquadron_RTL2GDS_SoC_program/blob/main/Lab_results_OpenLANE_workshop/Lab-1_results%20(2).png?raw=true)</br>
