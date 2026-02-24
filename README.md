@@ -81,7 +81,8 @@ Link used to run codespace for OpenLANE flow - https://github.com/vsdip/vsd-open
 
 No.of FF = 0.08715 in percentage 0.08715 * 100 = 8.715 </br>  
 
------
+</details>
+
 
 ## Phase-2-Floorplan Fundamentals (macro awareness for Caravel blocks)
 ## Phase-3-Timing Literacy with Ideal Clocks (OpenSTA + ECO mindset)
