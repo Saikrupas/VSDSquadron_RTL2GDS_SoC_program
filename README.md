@@ -64,7 +64,8 @@
  **Screenshot of OpenLANE run directory showing the structure :-**
 
 <img width="1665" height="876" alt="image" src="https://github.com/user-attachments/assets/96c8212d-e629-4547-8803-f1aa10df85f5" /> </br>  
- </br>
+<img width="813" height="872" alt="image" src="https://github.com/user-attachments/assets/7da999bc-27e8-434b-ac96-4bb859b20b59" /> </br>
+<img width="1196" height="780" alt="image" src="https://github.com/user-attachments/assets/69f738c1-3f3a-4754-b8e0-37701e813220" /> </br>
 
   **Synthesis run proof + synthesis report snippet :-**
   
@@ -86,6 +87,7 @@ percentage of D-FF's = 0.08715 i0.08715 * 100 = 8.715 </br>
 
 - Worst slack </br>
 
+<img width="1366" height="206" alt="image" src="https://github.com/user-attachments/assets/248c1ed9-e385-43df-90d5-c71bf7779528" /> </br>
 
 
 -  Refrence</br>
