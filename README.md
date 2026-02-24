@@ -85,7 +85,33 @@ No.of FF = 0.08715 in percentage 0.08715 * 100 = 8.715 </br>
 
 
 ## Phase-2-Floorplan Fundamentals (macro awareness for Caravel blocks)
+<details>
+  <summary>
+     Phase 2: Floorplan + macro/pre-placed cell understanding evidence
+</summary>
+</details>
+
+
 ## Phase-3-Timing Literacy with Ideal Clocks (OpenSTA + ECO mindset)
+<details>
+  <summary>
+    Phase 3: OpenSTA run + optimization + ECO evidence
+</summary>
+</details>
+
+
 ## Phase-4-CTS and Timing with Real Clocks (bridges directly to Week 4–6)
+<details>
+  <summary>
+     Phase 4: CTS run + real-clock timing evidence
+</summary>
+</details>
+
+
 ## Phase-5-PDN Awareness (required vocabulary for ORFS and signoff thinking)
+<details>
+  <summary>
+     Phase 5: PDN evidence
+</summary>
+</details>
 
