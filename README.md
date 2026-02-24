@@ -88,11 +88,11 @@ percentage of D-FF's = 0.08715 i0.08715 * 100 = 8.715 </br>
 
 
 
--  Refrence
- [OpenLANE Resource-1](https://github.com/efabless/openlane2)
- [OpenLANE Resource-2](https://github.com/efabless/openlane)
- [Youtube link1](https://www.youtube.com/watch?v=EczW2IWdnOM)  
- [Youtube link2](https://www.youtube.com/watch?v=Vhyv0eq_mLU)
+-  Refrence</br>
+ [OpenLANE Resource-1](https://github.com/efabless/openlane2) </br>
+ [OpenLANE Resource-2](https://github.com/efabless/openlane)  </br>
+ [Youtube link1](https://www.youtube.com/watch?v=EczW2IWdnOM)  </br>
+ [Youtube link2](https://www.youtube.com/watch?v=Vhyv0eq_mLU)  </br>
 </details>
 
 
