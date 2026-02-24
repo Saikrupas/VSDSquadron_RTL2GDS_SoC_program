@@ -13,10 +13,14 @@ Link used to run codespace for OpenLANE flow - https://github.com/vsdip/vsd-open
 
 ## Table of Contents
 ---
+ - [Week-1 phases](#week-1-phases)        
    - [Phase 1:OpenLANE Flow Familiarity (RTL → Synthesis literacy)](#phase-1-OpenLANE-Flow-Familiarity (RTL → Synthesis literacy))                                                      
    - [Phase 2:Floorplan Fundamentals (macro awareness for Caravel blocks)](#Phase-2-Floorplan-Fundamentals (macro awareness for Caravel blocks))
+   - [Phase 3:Timing Literacy with Ideal Clocks (OpenSTA + ECO mindset)](#Phase-3-Timing-Literacy-with-Ideal-Clocks (OpenSTA + ECO mindset))
+   - [Phase 4:CTS and Timing with Real Clocks (bridges directly to Week 4–6)](#Phase-4-CTS-and-Timing-with-Real-Clocks (bridges directly to Week 4–6))
+   - [Phase 5:PDN Awareness (required vocabulary for ORFS and signoff thinking)](#Phase-5-PDN-Awareness (required vocabulary for ORFS and signoff thinking))
 
-   
+ ## Week-1 Phases 
   
  ## Phase-1-OpenLANE Flow Familiarity (RTL → Synthesis literacy)
 <details>
@@ -24,13 +28,15 @@ Link used to run codespace for OpenLANE flow - https://github.com/vsdip/vsd-open
      Phase 1: Synthesis + characterization evidence 
 </summary>
    
-### <u>Soc design and OpenLANE</u></br>
+### Soc design and OpenLANE 
 
 -----
+
 ### Get familiar to open-source EDA tools 
 
 
-**Steps to envoke OpenLANE flow and to preform synthesis of picorv32a inside noVNC :-**
+
+**Steps to envoke OpenLANE flow and to preform synthesis of picorv32a inside noVNC :-**</br>  
 
  - once noVNC window is open in codespace,</br>
    > right click ----> go to terminal ----> cd OpenLANE (change directory to OpenLANE) </br>
@@ -77,19 +83,8 @@ No.of FF = 0.08715 in percentage 0.08715 * 100 = 8.715 </br>
 
 -----
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Phase-2-Floorplan Fundamentals (macro awareness for Caravel blocks)
+## Phase-3-Timing Literacy with Ideal Clocks (OpenSTA + ECO mindset)
+## Phase-4-CTS and Timing with Real Clocks (bridges directly to Week 4–6)
+## Phase-5-PDN Awareness (required vocabulary for ORFS and signoff thinking)
+
