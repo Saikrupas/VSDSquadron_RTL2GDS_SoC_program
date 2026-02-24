@@ -64,7 +64,7 @@
  **Screenshot of OpenLANE run directory showing the structure :-**
 
 <img width="1665" height="876" alt="image" src="https://github.com/user-attachments/assets/96c8212d-e629-4547-8803-f1aa10df85f5" /> </br>  
- - [Directory Structure of OpenLANE run directory](directory_structure.md) </br>
+ - [Directory Structure of OpenLANE run directory](directory_structure_run.md) </br>
  
 
 
