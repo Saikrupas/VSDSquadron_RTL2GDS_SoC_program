@@ -81,9 +81,9 @@
 - No. of cells </br>  
 <img width="1670" height="876" alt="image" src="https://github.com/user-attachments/assets/033003dd-bc6d-4153-8c4e-125e10d73817" /> </br>
 
-> Flop Ratio (No. of FF) = Number of D Flip Flops / Total number of cells   =  1613 / 18508 = 0.08715 </br>
+<p align="center"> Flop Ratio (No. of FF) = Number of D Flip Flops / Total number of cells   =  1613 / 18508 = 0.08715 </p> </br>
 
-percentage of D-FF's = 0.08715 i0.08715 * 100 = 8.715 </br>  
+<p align="center"> percentage of D-FF's = 0.08715 * 100 = 8.715 </p></br>  
 
 - Worst slack </br>
 
