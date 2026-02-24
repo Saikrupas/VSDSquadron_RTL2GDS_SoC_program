@@ -9,7 +9,9 @@
 
 </div>
 
-Link used to run codespace for OpenLANE flow - https://github.com/vsdip/vsd-openlane 
+  
+ -[Link used for codespace for OpenLANE flow - VSD](https://github.com/vsdip/vsd-openlane)
+
 
 ## Table of Contents
 ---
@@ -82,8 +84,17 @@ Link used to run codespace for OpenLANE flow - https://github.com/vsdip/vsd-open
 
 percentage of D-FF's = 0.08715 i0.08715 * 100 = 8.715 </br>  
 
-- Worst slack </br> 
+- Worst slack </br>
+
+
+
+-  Refrence
+ [OpenLANE Resource-1](https://github.com/efabless/openlane2)
+ [OpenLANE Resource-2](https://github.com/efabless/openlane)
+ [Youtube link1](https://www.youtube.com/watch?v=EczW2IWdnOM)  
+ [Youtube link2](https://www.youtube.com/watch?v=Vhyv0eq_mLU)
 </details>
+
 
 
 ## Phase-2-Floorplan Fundamentals (macro awareness for Caravel blocks)
