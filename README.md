@@ -62,7 +62,7 @@ Link used to run codespace for OpenLANE flow - https://github.com/vsdip/vsd-open
  **Screenshot of OpenLANE run directory showing the structure :-**
 
 <img width="1665" height="876" alt="image" src="https://github.com/user-attachments/assets/96c8212d-e629-4547-8803-f1aa10df85f5" /> </br>  
-
+ </br>
 
   **Synthesis run proof + synthesis report snippet :-**
   
@@ -78,10 +78,11 @@ Link used to run codespace for OpenLANE flow - https://github.com/vsdip/vsd-open
 - No. of cells </br>  
 <img width="1670" height="876" alt="image" src="https://github.com/user-attachments/assets/033003dd-bc6d-4153-8c4e-125e10d73817" /> </br>
 
-> flop ratio (No. of FF) = No. of D-FF / Total no. of cells </br>
+> Flop Ratio (No. of FF) = Number of D Flip Flops / Total number of cells   =  1613 / 18508 = 0.08715 </br>
 
-No.of FF = 0.08715 in percentage 0.08715 * 100 = 8.715 </br>  
+percentage of D-FF's = 0.08715 i0.08715 * 100 = 8.715 </br>  
 
+- Worst slack </br> 
 </details>
 
 
