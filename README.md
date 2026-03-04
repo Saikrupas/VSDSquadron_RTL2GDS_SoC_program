@@ -172,3 +172,12 @@
 
 </details>
 
+<details>
+  <summary>
+    Phase 2 — Toolchain Understanding (Devcontainer Deep Dive)   
+  </summary>
+  
+## Task 2.1 — Toolchain Mapping
+
+## Task 2.2 — Flow Architecture Explanation
+</details>
