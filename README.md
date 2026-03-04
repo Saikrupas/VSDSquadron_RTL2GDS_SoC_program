@@ -233,8 +233,20 @@ snapshots for cts
 ## To run routing
 cd workspaces/vsd-scl180-orfs/orfs/flow
 make route
+
+## To visualize the routing in gui mode 
+make gui_route
 ```
 
+
+```bash
+## To run GDS
+cd workspaces/vsd-scl180-orfs/orfs/flow
+make DESIGN_NAME=riscv32i PLATFORM=sky130hd
+
+## To check final gui layout
+make gui_final
+```
 </details>
 
 <details>
