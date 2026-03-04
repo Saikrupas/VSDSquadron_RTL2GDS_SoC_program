@@ -178,10 +178,49 @@
 
 ## open Makefile using gedit command
    gedit Makefile
-## comment line no. 44 and line no.48 in Makefile ( these are realated to SCL180 pdk we need for sky130 pdk)
-  
+## comment line no. 44 and uncomment line no. 48 in Makefile (by doing this we are connecting the foundry(sky130nm) with the design(riscv32i))
 
 ````
+snapshots for above 
+
+```bash
+## To run the logic synthesis for design riscv32i using sky130nm pdk using Makefile commands 
+  make synth
+
+## To see the synthesis results go to base directory
+ cd results/sky130hd/riscv32i/base
+
+## To see the synthesized netlist 
+gedit results/sky130hd/riscv32i/base/1_2_yosys.v
+```
+
+snapshots for synthesis run proof 
+
+```bash
+## To run floorplanning
+ cd workspaces/vsd-scl180-orfs/orfs/flow
+  make floorplan
+
+## To visualize the floorplan in gui mode
+make gui_floorplan
+```
+
+ snapshots for floorplan run proof 
+
+```bash
+## To run placement
+cd workspaces/vsd-scl180-orfs/orfs/flow
+make place
+
+## To visualize the placement in gui mode
+make gui_place
+```
+
+snapshots for placement run proof
+
+```bash
+
+```
 </details>
 
 <details>
