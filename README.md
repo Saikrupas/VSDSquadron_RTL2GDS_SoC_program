@@ -9,8 +9,6 @@
 
 </div>
 
-  
-
 ## Table of Contents
 ---
  - [Week-1 - Digital VLSI SoC Design and Planning (Openlane sky130 workshop)](#week-1-Digital-VLSI-SoC-Design-and-Planning-(Openlane-sky130-workshop))        
@@ -160,15 +158,21 @@
 
 <details>
   <summary>
-   Phase-1-ORFS Execution in GitHub Codespaces
+   <b>Phase-1-ORFS Execution in GitHub Codespaces</b>
   </summary>
 
   - [Link used for codespace for OpenLANE flow - VSD - Repository](https://github.com/vsdip/vsd-scl180-orfs)
 
 ## Task 1.1 — Repository Setup
 
-
-
+ - Fork this repository [vsd-scl180-orfs](https://github.com/vsdip/vsd-scl180-orfs) </br>
+   > Click code ----> Codespaces ----> Create Codespace </br>
+ <p align="center">
+    
+  </p>
+  <p align="center">
+    
+  </p>
 
 ## Task 1.2 — Run Sky130 Testcase in Cloud
 
@@ -247,6 +251,10 @@ make DESIGN_NAME=riscv32i PLATFORM=sky130hd
 ## To check final gui layout
 make gui_final
 ```
+
+
+-  Refrence </br>
+ [sky130-testcase-run-cloud](https://www.youtube.com/live/XLeMNjgrlK0) </br>
 </details>
 
 <details>
