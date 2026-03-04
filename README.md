@@ -24,8 +24,8 @@
    - [Phase 1: ORFS Execution in GitHub Codespaces](#Phase-1-ORFS-Execution-in-GitHub-Codespaces)
    - [Phase 2: Toolchain Understanding (Devcontainer Deep Dive)](#Phase-2-Toolchain-Understanding (Devcontainer Deep Dive))
    - [Phase 3: Local Installation (Self-Owned Environment)](#Phase-3-Local-Installation (Self-Owned Environment))
-   - [Phase 4: Re-Run RTL-to-GDS Locally](#Phase-4-Re-Run-RTL-to-GDS-Locally))
-   - [Phase 5: Debugging and Unix Literacy](#Phase-5-Debugging-and-Unix-Literacy))
+   - [Phase 4: Re-Run RTL-to-GDS Locally](#Phase-4-Re-Run-RTL-to-GDS-Locally)
+   - [Phase 5: Debugging and Unix Literacy](#Phase-5-Debugging-and-Unix-Literacy)
      
  - [Week-2](#week-2)
  - [Week-2](#week-2)
@@ -212,15 +212,29 @@ make gui_floorplan
 cd workspaces/vsd-scl180-orfs/orfs/flow
 make place
 
-## To visualize the placement in gui mode
-make gui_place
+## To visualize the placement in gui mode to zoom in (z) zoom out (shift + z)
+make gui_place 
 ```
 
 snapshots for placement run proof
 
 ```bash
+## To run CTS
+cd workspaces/vsd-scl180-orfs/orfs/flow
+make cts
 
+## To visualize the placement in gui mode 
+make gui_cts
 ```
+
+snapshots for cts
+
+```bash
+## To run routing
+cd workspaces/vsd-scl180-orfs/orfs/flow
+make route
+```
+
 </details>
 
 <details>
