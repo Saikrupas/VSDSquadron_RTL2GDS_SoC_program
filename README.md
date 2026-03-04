@@ -1,4 +1,4 @@
-# 🖥️ Digital VLSI SoC Design and Planning Course Work (Openlane Sky130 workshop)
+# 🖥️ VSDSquadron RTL2GDS SoC program 
 --- 
 &copy; saikrupas 
 
@@ -13,17 +13,20 @@
 
 ## Table of Contents
 ---
- - [Week-1](#week-1)        
-   - [Phase 1:OpenLANE Flow Familiarity (RTL → Synthesis literacy)](#phase-1-OpenLANE-Flow-Familiarity (RTL → Synthesis literacy))
-   - [Phase 2:Floorplan Fundamentals (macro awareness for Caravel blocks)](#Phase-2-Floorplan-Fundamentals (macro awareness for Caravel blocks))
-   - [Phase 3:Timing Literacy with Ideal Clocks (OpenSTA + ECO mindset)](#Phase-3-Timing-Literacy-with-Ideal-Clocks (OpenSTA + ECO mindset))
-   - [Phase 4:CTS and Timing with Real Clocks (bridges directly to Week 4–6)](#Phase-4-CTS-and-Timing-with-Real-Clocks (bridges directly to Week 4–6))
-   - [Phase 5:PDN Awareness (required vocabulary for ORFS and signoff thinking)](#Phase-5-PDN-Awareness (required vocabulary for ORFS and signoff thinking))
+ - [Week-1 - Digital VLSI SoC Design and Planning (Openlane sky130 workshop)](#week-1-Digital-VLSI-SoC-Design-and-Planning-(Openlane-sky130-workshop))        
+   - [Phase 1: OpenLANE Flow Familiarity (RTL → Synthesis literacy)](#phase-1-OpenLANE-Flow-Familiarity (RTL → Synthesis literacy))
+   - [Phase 2: Floorplan Fundamentals (macro awareness for Caravel blocks)](#Phase-2-Floorplan-Fundamentals (macro awareness for Caravel blocks))
+   - [Phase 3: Timing Literacy with Ideal Clocks (OpenSTA + ECO mindset)](#Phase-3-Timing-Literacy-with-Ideal-Clocks (OpenSTA + ECO mindset))
+   - [Phase 4: CTS and Timing with Real Clocks (bridges directly to Week 4–6)](#Phase-4-CTS-and-Timing-with-Real-Clocks (bridges directly to Week 4–6))
+   - [Phase 5: PDN Awareness (required vocabulary for ORFS and signoff thinking)](#Phase-5-PDN-Awareness (required vocabulary for ORFS and signoff thinking))
+     
  - [Week-2](#week-2)
-   - [Phase 1:ORFS Execution in GitHub Codespaces](#Phase-1-ORFS-Execution-in-GitHub-Codespaces)
-   - [Phase 2:](#Phase-2-)
-   - [Phase 3:](#Phase-3-)
-   - [Phase 4:CTS and Timing with Real Clocks (bridges directly to Week 4–6)](#Phase-4-CTS-and-Timing-with-Real-Clocks (bridges directly to Week 4–6))
+   - [Phase 1: ORFS Execution in GitHub Codespaces](#Phase-1-ORFS-Execution-in-GitHub-Codespaces)
+   - [Phase 2: Toolchain Understanding (Devcontainer Deep Dive)](#Phase-2-Toolchain-Understanding (Devcontainer Deep Dive))
+   - [Phase 3: Local Installation (Self-Owned Environment)](#Phase-3-Local-Installation (Self-Owned Environment))
+   - [Phase 4: Re-Run RTL-to-GDS Locally](#Phase-4-Re-Run-RTL-to-GDS-Locally))
+   - [Phase 5: Debugging and Unix Literacy](#Phase-5-Debugging-and-Unix-Literacy))
+     
  - [Week-2](#week-2)
  - [Week-2](#week-2)
  - [Week-2](#week-2)
@@ -32,7 +35,7 @@
 -----
    
  
-## 📃 Week-1 
+## 📃 Week-1- Digital-VLSI-SoC-Design-and-Planning-(Openlane-sky130-workshop)
 
   <details>
   <summary>
@@ -169,15 +172,44 @@
 
 ## Task 1.2 — Run Sky130 Testcase in Cloud
 
+```` bash
 
+## comment line no. 44 and line no.48 in Makefile ( these are realated to SCL180 pdk we need for sky130 pdk)
+
+````
 </details>
 
 <details>
   <summary>
-    Phase 2 — Toolchain Understanding (Devcontainer Deep Dive)   
+    Phase-2-Toolchain Understanding (Devcontainer Deep Dive)   
   </summary>
   
 ## Task 2.1 — Toolchain Mapping
 
 ## Task 2.2 — Flow Architecture Explanation
 </details>
+
+<details>
+  <summary>
+    Phase-3-Local Installation (Self-Owned Environment)
+    
+  </summary>
+
+  </details>
+
+
+<details>
+  <summary>
+    Phase-4-Re-Run RTL-to-GDS Locally
+    
+  </summary>
+
+  </details>
+
+  <details>
+  <summary>
+    Phase-5-Debugging and Unix Literacy
+    
+  </summary>
+
+  </details>
