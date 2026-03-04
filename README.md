@@ -173,8 +173,13 @@
 ## Task 1.2 — Run Sky130 Testcase in Cloud
 
 ```` bash
+## Go to the following directory
+  cd workspaces/vsd-scl180-orfs/orfs/flow
 
+## open Makefile using gedit command
+   gedit Makefile
 ## comment line no. 44 and line no.48 in Makefile ( these are realated to SCL180 pdk we need for sky130 pdk)
+  
 
 ````
 </details>
