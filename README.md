@@ -178,6 +178,8 @@
 
 ## Task 1.2 — Run Sky130 Testcase in Cloud
 
+- Open noVnc in the codespace </br>
+  
 ```` bash
 ## Go to the following directory
   cd workspaces/vsd-scl180-orfs/orfs/flow
@@ -185,9 +187,14 @@
 ## open Makefile using gedit command
    gedit Makefile
 ## comment line no. 44 and uncomment line no. 48 in Makefile (by doing this we are connecting the foundry(sky130nm) with the design(riscv32i))
-
 ````
-snapshots for above 
+
+ <p align="center">
+   <img width="1601" height="822" alt="image" src="https://github.com/user-attachments/assets/0a46a608-3c87-4374-921e-5335a71e2a46" />
+   <img width="1608" height="717" alt="image" src="https://github.com/user-attachments/assets/62df3634-6f72-4683-b68d-83d3844cd3c9" />
+   <img width="1455" height="872" alt="image" src="https://github.com/user-attachments/assets/e12f054b-d062-43ec-882e-b5c73aa85b6c" />
+ </p>
+
 
 ```bash
 ## To run the logic synthesis for design riscv32i using sky130nm pdk using Makefile commands 
