@@ -10,8 +10,6 @@
 </div>
 
   
- - [Link used for codespace for OpenLANE flow - VSD](https://github.com/vsdip/vsd-openlane)
-
 
 ## Table of Contents
 ---
@@ -22,6 +20,10 @@
    - [Phase 4:CTS and Timing with Real Clocks (bridges directly to Week 4–6)](#Phase-4-CTS-and-Timing-with-Real-Clocks (bridges directly to Week 4–6))
    - [Phase 5:PDN Awareness (required vocabulary for ORFS and signoff thinking)](#Phase-5-PDN-Awareness (required vocabulary for ORFS and signoff thinking))
  - [Week-2](#week-2)
+   - [Phase 1:OpenLANE Flow Familiarity (RTL → Synthesis literacy)](#phase-1-OpenLANE-Flow-Familiarity (RTL → Synthesis literacy))
+   - [Phase 2:Floorplan Fundamentals (macro awareness for Caravel blocks)](#Phase-2-Floorplan-Fundamentals (macro awareness for Caravel blocks))
+   - [Phase 3:Timing Literacy with Ideal Clocks (OpenSTA + ECO mindset)](#Phase-3-Timing-Literacy-with-Ideal-Clocks (OpenSTA + ECO mindset))
+   - [Phase 4:CTS and Timing with Real Clocks (bridges directly to Week 4–6)](#Phase-4-CTS-and-Timing-with-Real-Clocks (bridges directly to Week 4–6))
  - [Week-2](#week-2)
  - [Week-2](#week-2)
  - [Week-2](#week-2)
@@ -31,6 +33,7 @@
    
  
 ## 📃 Week-1 
+
   <details>
   <summary>
  Phase-1-OpenLANE Flow Familiarity (RTL → Synthesis literacy)
@@ -38,6 +41,7 @@
     
 ### Phase 1: Synthesis + characterization evidence 
 
+ - [Link used for codespace for OpenLANE flow - VSD](https://github.com/vsdip/vsd-openlane)
    
 #### Soc design and OpenLANE 
 
@@ -135,14 +139,36 @@
 
 </details>
 
+
 <details>
   <summary>
    Phase-5-PDN Awareness (required vocabulary for ORFS and signoff thinking)
   </summary>
-    ## Phase 5: PDN evidence
+  
+  ## Phase 5: PDN evidence
+ 
 
 </details>
 
------
+
+------
 
 ## 📃 Week-2
+
+<details>
+  <summary>
+   Phase-1-ORFS Execution in GitHub Codespaces
+  </summary>
+
+  - [Link used for codespace for OpenLANE flow - VSD - Repository](https://github.com/vsdip/vsd-scl180-orfs)
+
+## Task 1.1 — Repository Setup
+
+
+
+
+## Task 1.2 — Run Sky130 Testcase in Cloud
+
+
+</details>
+
