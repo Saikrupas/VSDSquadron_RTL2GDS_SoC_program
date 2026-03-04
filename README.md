@@ -166,12 +166,14 @@
 ## Task 1.1 — Repository Setup
 
  - Fork this repository [vsd-scl180-orfs](https://github.com/vsdip/vsd-scl180-orfs) </br>
-   > Click code ----> Codespaces ----> Create Codespace </br>
+
+   Click code ----> Codespaces ----> Create Codespace </br>
+   
  <p align="center">
-    
-  </p>
+    <img width="1907" height="926" alt="image" src="https://github.com/user-attachments/assets/f488ba27-6747-44bc-ba85-c2b6b7e59e4a" />
+ </p>
   <p align="center">
-    
+    <img width="1915" height="952" alt="image" src="https://github.com/user-attachments/assets/a5c10e83-4787-4b89-b5ad-e89a5d526b66" />
   </p>
 
 ## Task 1.2 — Run Sky130 Testcase in Cloud
