@@ -259,8 +259,6 @@ make DESIGN_NAME=riscv32i PLATFORM=sky130hd
 
 ## To check final gui layout
 make gui_final 
-## or we can use
-klayout 6_final.gds
 ```
 
 
